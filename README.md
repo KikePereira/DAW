@@ -5,12 +5,10 @@ Este repositorio incluye actividades llevadas a cabo en el modulo DAW
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Ejercicio 1  | Breve descripcion 0.1 |
+| Ejercicio 2 | Breve descripcion 0.2  |
 
-| ------------- | ------------- |
-| Ejercicio 1 | Breve descripcion 0.1  |
-| Ejercicio 2  |  Breve descripcion 0.2 |
+
 | ... |  ... |
 
 ## Tema 1-Nombre tema 1
