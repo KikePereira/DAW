@@ -12,5 +12,5 @@ Este repositorio incluye actividades llevadas a cabo en el modulo DAW
 |   |  |
 | ------------- | ------------- |
 | Ejercicio 1  | Breve descripcion 0.1 |
-| [Ejercicio 2](TEMA 1/Actividad 2)| Trabajando con Scripts  |
+|[Ejercicio 2](TEMA 1/Actividad 2)| Trabajando con Scripts  |
 | ... | ...  |
