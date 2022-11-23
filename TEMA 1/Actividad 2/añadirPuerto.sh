@@ -12,7 +12,7 @@ cadenaPuerto="Listen $puerto"
 #Buscar si el puerto a introducir ya existe
 
 #-F Buscar cadena de texto // -x Busqueda en la misma linea completa // -q Busq>
-if grep -Fxq "$cadenaPuerto" "$archivoPuertos"
+if [[grep -Fxq "$cadenaPuerto" "$archivoPuertos"]]
 
 then #Si existe
         echo "Puerto ya existente"
