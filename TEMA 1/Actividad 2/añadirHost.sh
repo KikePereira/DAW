@@ -13,7 +13,7 @@ read nuevaIP
 
 #Buscar si el host ya existe 
 # -w Busca una palabra // -q Busqueda en silencio
-if grep -q -w "$nuevoHost" "$archivoHosts" 
+if [[grep -q -w "$nuevoHost" "$archivoHosts"]] 
 then #Si existe
         echo "Ese Host ya existe" 
 else #No existe
