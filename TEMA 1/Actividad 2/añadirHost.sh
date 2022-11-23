@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Cogemos el archivo hosts
-archivoHosts="./etc/hosts"
+archivoHosts="etc/hosts"
 
 echo "Introduce el hosts que deseas añadir: "
 #Host que queremos añadir
