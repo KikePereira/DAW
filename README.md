@@ -6,5 +6,5 @@ Este repositorio incluye actividades llevadas a cabo en el modulo DAW
 |   |  |
 | ------------- | ------------- |
 |[Actividad 2](https://github.com/KikePereira/DAW/tree/main/TEMA%201/Actividad%202)| Trabajando con Scripts  |
-|[Projecto Servidor Web](https://github.com/KikePereira/Practica-Servidores-Web)| Vamos a instalar un servidor web interno para un instituto. |
+|[Proyecto Servidor Web](https://github.com/KikePereira/Practica-Servidores-Web)| Vamos a instalar un servidor web interno para un instituto. |
 | ... | ...  |
